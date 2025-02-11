@@ -6,7 +6,7 @@ I'm a passionate developer interested in building innovative solutions using mod
 ## 🌱 Currently Learning
 - MERN Stack (MongoDB, Express, React, Node.js)
 - Tailwind CSS & Next.js
-- Machine Learning & AI (Gun detection, Poaching detection models)
+- Machine Learning & AI 
 - Game Development using C# & JavaScript
 
 ## 💞️ Looking to Collaborate On
@@ -15,8 +15,8 @@ I'm a passionate developer interested in building innovative solutions using mod
 - 2D endless runner game development
 
 ## 📫 How to Reach Me
-- LinkedIn: [Your LinkedIn Profile](#)
-- Email: [Your Email Address](#)
+- Portfolio: [My-Portfolio](https://jayeshpatil-portfolio-two.vercel.app/)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/jayesh-patil-17984a260/)
 - GitHub: [JayPatil9975](https://github.com/JayPatil9975)
 
 ## 😄 Pronouns
