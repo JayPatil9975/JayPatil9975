@@ -7,15 +7,12 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **MERN Stack (MongoDB, Express, React, Node.js) Tailwind CSS & Next.js Machine Learning & AI Game Development using C# & JavaScript**
-
 - 🌱 I’m currently learning **MERN Stack (MongoDB, Express, React, Node.js) Tailwind CSS & Next.js Machine Learning & AI Game Development using C# & JavaScript**
 
 - 👯 I’m looking to collaborate on **Open-source projects related to AI/ML Web applications using MERN stack 2D endless runner game development**
 
 - 👨‍💻 All of my projects are available at [https://jayeshpatil-portfolio-two.vercel.app/](https://jayeshpatil-portfolio-two.vercel.app/)
 
-- 📄 Know about my experiences [https://jayeshpatil-portfolio-two.vercel.app/](https://jayeshpatil-portfolio-two.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
