@@ -8,8 +8,9 @@ Engineering Student | Full-Stack Developer | AI/ML & Game Dev Enthusiast
   <img src="https://komarev.com/ghpvc/?username=jaypatil9975&label=Profile%20views&color=0e75b6&style=flat" alt="jaypatil9975" />
 </p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jaypatil9975&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" />
 </p>
+
 
 ---
 
